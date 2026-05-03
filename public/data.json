@@ -1,0 +1,400 @@
+{
+  "personal": {
+    "name": "Mehedi Hassan",
+    "title": "Full Stack Developer",
+    "shortName": "MH",
+    "avatar": "https://github.com/mehedi67719/assets/blob/main/Mehedi%20Hassan%20full(1).jpg?raw=true",
+    "location": "Bangladesh",
+    "email": "meh67719@gmail.com",
+    "phone": "+880 1747737704",
+    "website": "www.mehedihassan.com",
+    "bio": "I'm a passionate Full Stack Developer with expertise in building scalable web applications. I specialize in creating premium digital experiences that combine beautiful design with powerful functionality.",
+    "projects": "20+",
+    "technologies": "12"
+  },
+  "roles": [
+    "Full Stack Developer",
+    "MERN Stack Expert",
+    "UI/UX Enthusiast",
+    "Problem Solver",
+    "Tech Innovator"
+  ],
+  "expertise": [
+    {
+      "icon": "FaReact",
+      "title": "React.js Development",
+      "description": "Building dynamic SPAs with React hooks, context API, Redux, and modern React patterns.",
+      "color": "from-cyan-500 to-blue-500"
+    },
+    {
+      "icon": "SiNextdotjs",
+      "title": "Next.js Framework",
+      "description": "SSR, SSG, and ISR for optimal performance, SEO optimization, and serverless functions.",
+      "color": "from-gray-500 to-gray-700"
+    },
+    {
+      "icon": "SiTailwindcss",
+      "title": "Tailwind CSS",
+      "description": "Rapid UI development with utility-first CSS framework and custom design systems.",
+      "color": "from-teal-400 to-cyan-500"
+    },
+    {
+      "icon": "FaNodeJs",
+      "title": "Node.js Backend",
+      "description": "Scalable server-side applications, RESTful APIs, GraphQL, and microservices.",
+      "color": "from-green-400 to-emerald-500"
+    },
+    {
+      "icon": "SiMongodb",
+      "title": "MongoDB & Database",
+      "description": "NoSQL database design, aggregation pipelines, indexing, and optimization.",
+      "color": "from-green-500 to-teal-500"
+    },
+    {
+      "icon": "SiTypescript",
+      "title": "TypeScript",
+      "description": "Type-safe development, better code quality, and enhanced developer experience.",
+      "color": "from-blue-400 to-indigo-500"
+    }
+  ],
+  "skills": {
+    "frontend": [
+      {
+        "name": "React.js",
+        "level": 90,
+        "icon": "FaReact",
+        "color": "from-cyan-400 to-blue-500"
+      },
+      {
+        "name": "JavaScript",
+        "level": 88,
+        "icon": "FaJs",
+        "color": "from-yellow-400 to-orange-500"
+      },
+      {
+        "name": "TypeScript",
+        "level": 78,
+        "icon": "SiTypescript",
+        "color": "from-blue-400 to-indigo-500"
+      },
+      {
+        "name": "Next.js",
+        "level": 75,
+        "icon": "SiNextdotjs",
+        "color": "from-gray-400 to-gray-600"
+      },
+      {
+        "name": "HTML5/CSS3",
+        "level": 92,
+        "icon": "FaHtml5",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "name": "TailwindCSS",
+        "level": 88,
+        "icon": "SiTailwindcss",
+        "color": "from-teal-400 to-cyan-500"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "level": 82,
+        "icon": "FaNodeJs",
+        "color": "from-green-400 to-emerald-500"
+      },
+      {
+        "name": "Express.js",
+        "level": 80,
+        "icon": "SiExpress",
+        "color": "from-gray-400 to-gray-600"
+      },
+      {
+        "name": "MongoDB",
+        "level": 75,
+        "icon": "SiMongodb",
+        "color": "from-green-500 to-teal-500"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": 50,
+        "icon": "FaDatabase",
+        "color": "from-blue-400 to-indigo-500"
+      },
+      {
+        "name": "Firebase",
+        "level": 70,
+        "icon": "SiFirebase",
+        "color": "from-yellow-500 to-orange-500"
+      },
+      {
+        "name": "RESTful API",
+        "level": 85,
+        "icon": "FaServer",
+        "color": "from-purple-400 to-pink-500"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git/GitHub",
+        "level": 80,
+        "icon": "FaGitAlt",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "name": "Figma",
+        "level": 75,
+        "icon": "FaFigma",
+        "color": "from-purple-400 to-pink-500"
+      },
+      {
+        "name": "VS Code",
+        "level": 85,
+        "icon": "SiVisualstudiocode",
+        "color": "from-blue-400 to-indigo-500"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "DESHIMART - Multi-Vendor E-Commerce Platform",
+      "category": "Full Stack",
+      "description": "Enterprise-grade multi-vendor e-commerce platform with role-based dashboards (Admin/Seller/Buyer), SSLCommerz payment integration, real-time messaging, and comprehensive analytics.",
+      "fullDescription": "DESHIMART is a modern, full-featured e-commerce platform built with React, Vite, and Node.js/Express backend. It supports multiple user roles including Admin, Seller, and Buyer with comprehensive shopping capabilities. Key features include: role-based dashboards (Admin for platform oversight, Seller for product management and order fulfillment, Buyer for shopping and order tracking), secure payment processing with SSLCommerz, real-time messaging using Socket.io, product browsing with categories and hot deals, shopping cart and wishlist functionality, blog platform, and analytics dashboard with interactive charts. The platform uses JWT for authentication, Firebase for hosting and Google OAuth, and MongoDB for database management. Fully responsive design with Tailwind CSS and modern UI components.",
+      "tags": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Socket.io",
+        "TailwindCSS",
+        "SSLCommerz"
+      ],
+      "features": [
+        "Multi-role Dashboard (Admin, Seller, Buyer)",
+        "SSLCommerz Payment Integration",
+        "Real-time Chat with Socket.io",
+        "Product Management & Inventory",
+        "Order Tracking & Fulfillment",
+        "Analytics Dashboard with Charts",
+        "Shopping Cart & Wishlist",
+        "Blog Platform",
+        "Google OAuth & JWT Authentication"
+      ],
+      "image": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202026-03-07%20215552.png?raw=true",
+      "demoImage": "https://github.com/mehedi67719/assets/blob/main/Screenshot%202026-05-03%20182020.png?raw=true",
+      "video": "",
+      "liveLink": "https://deshimart-1451e.web.app/",
+      "githubLink": "https://github.com/mehedi67719/DESHIMART.git",
+      "gradient": "from-emerald-500/20 to-teal-600/10"
+    },
+    {
+      "id": 2,
+      "title": "SmartMeal (MealBoard) - Meal Management System",
+      "category": "Full Stack",
+      "description": "Modern full-stack meal management system for mess/hostel with role-based access (Controller/Manager/Member), meal tracking, cost management, deposit system, and AI health chatbot.",
+      "fullDescription": "SmartMeal is a comprehensive meal management system built with Next.js 16, MongoDB, and NextAuth. It helps mess committees and hostels manage daily meal tracking, cost calculation, deposit collection, and member management efficiently. The platform features three distinct roles: Controller (Admin) who can assign managers and manage users, Manager who handles daily costs and deposits, and Members who toggle meals and view personal dashboards. Key features include: secure registration with secret codes, automated meal calculator that computes meal rates and individual costs, real-time dashboards with Recharts analytics, meal ON/OFF toggle system, deposit and cost history tracking, and a unique AI health chatbot powered by Gemini API that answers health-related questions. The system uses Tailwind CSS with DaisyUI for beautiful UI components and provides full responsiveness across all devices.",
+      "tags": [
+        "Next.js 16",
+        "MongoDB",
+        "NextAuth",
+        "Tailwind CSS",
+        "DaisyUI",
+        "Recharts",
+        "Gemini AI"
+      ],
+      "features": [
+        "Role-based System (Controller, Manager, Member)",
+        "Meal Tracking & Calculator",
+        "Cost Management & Deposit System",
+        "AI Health Chatbot",
+        "Real-time Dashboards",
+        "Secret Code Registration",
+        "Meal ON/OFF Toggle",
+        "Individual Cost Calculation"
+      ],
+      "image": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202026-05-02%20201350.png?raw=true",
+      "demoImage": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202026-05-02%20201518.png?raw=true",
+      "video": "",
+      "liveLink": "https://smart-meal-beta-nine.vercel.app/",
+      "githubLink": "https://github.com/mehedi67719/SmartMeal.git",
+      "gradient": "from-emerald-500/20 to-teal-600/10"
+    },
+    {
+      "id": 3,
+      "title": "ContestHub - Creative Contest Management Platform",
+      "category": "Full Stack",
+      "description": "Modern full-stack contest management platform where users can create, explore, participate in, and manage creative contests with Stripe payment integration and leaderboards.",
+      "fullDescription": "ContestHub is a comprehensive contest management platform built with React, Node.js/Express, and MongoDB. It supports three roles: Admin, Contest Creator, and Normal User. Users can browse and search contests by type, participate by paying entry fees via Stripe, submit contest tasks, and view winners and leaderboards. Contest Creators can add, edit, and delete contests (before approval), see submissions, and declare winners. Admins can approve/reject contests and manage users and contests. Key features include: JWT-secured private routes, dynamic search with backend logic, live contest deadline countdown, winner declaration with photo and prize, dynamic leaderboard ranked by contest wins, win percentage charts in profile, react-hook-form for all forms, SweetAlert2 notifications, Google Sign-in, fully responsive design, and role-based dashboards with comprehensive functionality.",
+      "tags": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Stripe",
+        "JWT",
+        "TailwindCSS",
+        "Firebase"
+      ],
+      "features": [
+        "Role-based System (Admin, Creator, User)",
+        "Stripe Payment Integration",
+        "Contest Creation & Management",
+        "Task Submission System",
+        "Winner Declaration & Leaderboard",
+        "Dynamic Search & Filtering",
+        "Profile Analytics & Win Charts",
+        "Google Authentication"
+      ],
+      "image": "https://raw.githubusercontent.com/mehedi67719/assets/618f09e01884ecdf367c3466f3509cd0b7a3e299/Screenshot%202025-12-22%20134357.png",
+      "demoImage": "https://raw.githubusercontent.com/mehedi67719/assets/618f09e01884ecdf367c3466f3509cd0b7a3e299/Screenshot%202025-12-22%20134357.png",
+      "video": "",
+      "liveLink": "https://contesthub-46e63.web.app/",
+      "githubLink": "https://github.com/mehedi67719/ContestHub.git",
+      "gradient": "from-emerald-500/20 to-teal-600/10"
+    },
+    {
+      "id": 4,
+      "title": "Green Nest - Indoor Plants E-Commerce",
+      "category": "Frontend",
+      "description": "Modern React frontend for indoor plant shopping with consultation booking, plant care tips, expert meet section, and user profile management.",
+      "fullDescription": "Green Nest is a React-based frontend application focused on indoor plants. Users can explore plants, view detailed information, book consultations with plant experts, and manage their profiles. The application features a clean, user-friendly interface that is fully responsive across desktop, tablet, and mobile devices. Key sections include: Home Page with banner (using SwiperJS/Framer Motion animations), top-rated indoor plants display, Plant Care Tips section, Meet our Green Experts section, All Plants Page with dynamic plant listing from JSON, Plant Details Page with consultation booking form, Login & Register with email/password authentication and validation (including password toggle), My Profile Page displaying user info with real-time update capability (no page reload), and a 404 error page. The app uses React Router for SPA navigation, React Hooks for state management, Tailwind CSS for styling, and SweetAlert2 for toast notifications.",
+      "tags": [
+        "React",
+        "TailwindCSS",
+        "React Router",
+        "SwiperJS",
+        "Framer Motion",
+        "SweetAlert2"
+      ],
+      "features": [
+        "Plant Browsing & Details",
+        "Consultation Booking Form",
+        "Plant Care Tips Section",
+        "Meet Green Experts Section",
+        "User Authentication (Email/Password)",
+        "Profile Management with Real-time Update",
+        "Password Toggle on Login/Register",
+        "Responsive Design"
+      ],
+      "image": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202025-11-19%20153602.png",
+      "demoImage": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202025-11-19%20153602.png",
+      "video": "",
+      "liveLink": "https://amazing-tiramisu-49f2f5.netlify.app/home",
+      "githubLink": "https://github.com/mehedi67719/green-nest.git",
+      "gradient": "from-emerald-500/20 to-teal-600/10"
+    },
+    {
+      "id": 5,
+      "title": "Productive Apps - Productivity Management Suite",
+      "category": "Frontend",
+      "description": "Clean React frontend for daily productivity management with tasks, notes, reminders, app installation tracking, and local storage integration.",
+      "fullDescription": "Productive Apps is a React-based frontend application designed to help users manage daily tasks, notes, and reminders efficiently. The interface is clean, responsive, and user-friendly across all devices. Key features include: complete Task Management (add, edit, delete tasks), Notes Management (create and organize notes), Reminders (set reminders for tasks), local storage integration (save installed apps locally, prevent duplicate installations), toast notifications for all user actions (no default browser alerts), smooth SPA navigation between pages, responsive app listing with search functionality, app details page with information and reviews (including responsive chart for reviews), installation page showing installed apps list, and a 404 error page. The application uses React Router for navigation, React Hooks for state management, Tailwind CSS for styling, and SweetAlert2 for toast notifications.",
+      "tags": [
+        "React",
+        "TailwindCSS",
+        "React Router",
+        "SweetAlert2",
+        "Local Storage"
+      ],
+      "features": [
+        "Task Management (CRUD)",
+        "Notes Organization",
+        "Reminders System",
+        "App Installation Tracking",
+        "Local Storage Integration",
+        "Toast Notifications",
+        "Search Functionality",
+        "Responsive Reviews Chart"
+      ],
+      "image": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202025-11-19%20153552.png",
+      "demoImage": "https://github.com/mehedi67719/assets/raw/main/Screenshot%202025-11-19%20153552.png",
+      "video": "",
+      "liveLink": "https://productive-app001.netlify.app/",
+      "githubLink": "https://github.com/mehedi67719/Productive-Apps.git",
+      "gradient": "from-emerald-500/20 to-teal-600/10"
+    }
+  ],
+  "journey": [
+    {
+      "year": "2025",
+      "title": "Started Web Development",
+      "description": "Began journey with HTML, CSS, and JavaScript fundamentals",
+      "icon": "FaCode"
+    },
+    {
+      "year": "2025",
+      "title": "Mastered React.js",
+      "description": "Built first interactive SPA and learned modern React patterns",
+      "icon": "FaReact"
+    },
+    {
+      "year": "2025",
+      "title": "Full Stack Developer",
+      "description": "Completed MERN stack training and built production-ready apps",
+      "icon": "FaServer"
+    },
+    {
+      "year": "2025",
+      "title": "12+ Projects Completed",
+      "description": "Successfully completed multiple personal projects",
+      "icon": "FaProjectDiagram"
+    },
+    {
+      "year": "2026",
+      "title": "Advanced Technologies",
+      "description": "Mastered Next.js, TypeScript, TailwindCSS, and more",
+      "icon": "SiNextdotjs"
+    },
+    {
+      "year": "2026",
+      "title": "Open Source Contributor",
+      "description": "Actively contributing to open source projects",
+      "icon": "FaGithub"
+    }
+  ],
+  "education": {
+    "degree": "Diploma in Computer Science",
+    "institution": "Jashore polytechnic institute",
+    "period": "2020 - 2024",
+    "description": "Specialization in Computer Science and Technology with focus on web development, database management, and computer programming languages.",
+    "courses": [
+      "Web Development",
+      "Database Management",
+      "Data Structures",
+      "Algorithms",
+      "Software Engineering"
+    ],
+    "certifications": [
+      {
+        "name": "Complete Full-Stack Web Development Course",
+        "issuer": "Programming Hero",
+        "year": "2024",
+        "image": "https://github.com/mehedi67719/assets/blob/main/Screenshot%202026-05-03%20115847.png?raw=true",
+        "certificateLink": "https://drive.google.com/file/d/1kufdbkkfnqh9oapoPMIX-U24xqPjM1-C/view?usp=sharing"
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "icon": "FaProjectDiagram",
+      "value": 20,
+      "label": "Projects Completed",
+      "suffix": "+"
+    },
+    { "icon": "FaCode", "value": 12, "label": "Technologies", "suffix": "+" },
+    { "icon": "FaAward", "value": 1, "label": "Certifications", "suffix": "" }
+  ],
+  "contact": {
+    "email": "meh67719@gmail.com",
+    "phone": "+880 1747737704",
+    "location": "Bangladesh",
+    "website": "www.mehedihassan.com",
+    "social": {
+      "github": "https://github.com/mehedi67719",
+      "linkedin": "https://www.linkedin.com/in/mehedihassanjashore/",
+      "facebook": "https://www.facebook.com/mehedi.hasana.835189"
+    }
+  }
+}

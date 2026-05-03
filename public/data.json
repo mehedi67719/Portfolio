@@ -202,7 +202,7 @@
         "Tailwind CSS",
         "DaisyUI",
         "Recharts",
-        "Gemini AI"
+        "Gemini AI Api Key"
       ],
       "features": [
         "Role-based System (Controller, Manager, Member)",
@@ -357,7 +357,7 @@
   "education": {
     "degree": "Diploma in Computer Science",
     "institution": "Jashore polytechnic institute",
-    "period": "2020 - 2024",
+    "period": "2024 - 2027",
     "description": "Specialization in Computer Science and Technology with focus on web development, database management, and computer programming languages.",
     "courses": [
       "Web Development",
@@ -370,7 +370,7 @@
       {
         "name": "Complete Full-Stack Web Development Course",
         "issuer": "Programming Hero",
-        "year": "2024",
+        "year": "2025",
         "image": "https://github.com/mehedi67719/assets/blob/main/Screenshot%202026-05-03%20115847.png?raw=true",
         "certificateLink": "https://drive.google.com/file/d/1kufdbkkfnqh9oapoPMIX-U24xqPjM1-C/view?usp=sharing"
       }
@@ -390,7 +390,7 @@
     "email": "meh67719@gmail.com",
     "phone": "+880 1747737704",
     "location": "Bangladesh",
-    "website": "www.mehedihassan.com",
+    "website": "https://mehedihassanjashore.netlify.app/",
     "social": {
       "github": "https://github.com/mehedi67719",
       "linkedin": "https://www.linkedin.com/in/mehedihassanjashore/",

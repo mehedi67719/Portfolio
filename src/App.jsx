@@ -305,7 +305,7 @@ const HeroSection = ({ scrollToSection }) => {
           transition={{ duration: 0.8, type: "spring", stiffness: 100 }}
         >
           <motion.div
-            animate={{ y: [0, -10, 0] }}
+          
             transition={{ repeat: Infinity, duration: 3, ease: "easeInOut" }}
             className="inline-block"
           >
